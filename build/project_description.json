@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "resq_protocol_project",
-    "project_version":    "1",
+    "project_version":    "0877a8c-dirty",
     "project_path":       "C:/Users/Alfredo/resq_protocol_project",
     "idf_path":           "C:/esp/v5.4.4/esp-idf",
     "build_dir":          "C:/Users/Alfredo/resq_protocol_project/build",
@@ -1210,7 +1210,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "C:/Users/Alfredo/resq_protocol_project/build/esp-idf/main/libmain.a",
-            "sources": [ "C:/Users/Alfredo/resq_protocol_project/main/main.c" ],
+            "sources": [ "C:/Users/Alfredo/resq_protocol_project/main/main.c", "C:/Users/Alfredo/resq_protocol_project/main/resq_sos.c" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {
